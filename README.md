@@ -26,7 +26,7 @@ This repository contains a Python-based chatbot designed to assist users with me
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aryan0931/Emergency-Chatbot
+git clone https://github.com/aryan0931/Emergency-Chatbot-
 cd your-repo
 ```
 
